@@ -1,0 +1,17 @@
+.bowie-stardust {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+.bowie-quote {
+  display: none;
+}
